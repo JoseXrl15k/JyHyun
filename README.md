@@ -38,7 +38,7 @@
 
 ---
 
-# ︲︱︳❀ＪɪᰧHຶÿuƞᛃ⿺﹆
+# Jy Hyun La Bot Más Linda 
 
 Bienvenido a JyHyun soy una bot de WhatsApp diceñada para : Entretener , dar información , Descargar musicas , crear imagenes , ect
 
@@ -60,7 +60,7 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/JoseXrl15k/JyHyun/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/JoseXrl15k/JyHyun/blob/master/config.js)
 
-![JyHyun](https://i.imgur.com/0oLkdw2.jpeg)
+![Jose Elber - JyHyun](https://i.ibb.co/PDJfzdd/Jyhyun.jpg)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Jose+lanzó;Nueva+versión+JyHyun - 2.1.0;BY:+Jose+Xrl+y+Dioneibi." alt="Typing SVG"/></a>
 </div>
