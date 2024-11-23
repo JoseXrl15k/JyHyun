@@ -32,10 +32,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FG98F/senna-bot.git"
+        "url": "git+https://github.com/JoseXrl15k/JyHyun.git"
     },
     "bugs": {
-        "url": "https://github.com/FG98F/senna-bot/issues"
+        "url": "https://github.com/JoseXrl15k/JyHyun/issues"
     },
     "license": "MIT",
     "dependencies": {
