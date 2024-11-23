@@ -1,4 +1,4 @@
-<h1 align='center'>︲︱︳❀ＪɪᰧHຶÿuƞᛃ⿺﹆</h1>
+<h1 align='center'>Jy MultiDevice</h1>
 
 <div align="center">
   
@@ -18,8 +18,8 @@
 <h1 align="center"></h1>
   </div>
   
-<h1 align="center">JyHyun Bot 🤗</h1>
- <p align="center">🐈 WhatsApp Bot Node-Js.</p>
+<h1 align="center">JyHyun Bot 🌹</h1>
+ <p align="center">🌹 WhatsApp Bot Node-Js.</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;JyHyun+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Jose;⚘🌹+Uwu🍒)](https://git.io/typing-svg)
@@ -30,7 +30,7 @@
 ### **`❕️ Información importante`**
 
 <details>
- <summary><b> 🐈 Info Bot</b></summary>
+ <summary><b> 🌹 Info Bot</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 
@@ -73,7 +73,7 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 ### CONTACTOS 💻
 <p>
 
-![Jose Elber - JyHyun](https://i.ibb.co/7prfghY/Jyhyun.jpg)
+![JyHyun](https://i.ibb.co/PDJfzdd/Jyhyun.jpg)
 
 
 <a href="https://api.whatsapp.com/send/?phone=+51950148255&text=Hola 👋 soporte de JyHyun &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
