@@ -101,11 +101,6 @@ global.colab3 = 'Katharsis'
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
-global.saludo = '🍭' + hour;
-//▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
-//▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 global.getDevice = getDevice
 global.axios = axios 
 global.fs = fs
