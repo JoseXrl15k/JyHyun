@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Jose Elber - Jy Hyun](https://i.ibb.co/5r5k8g7/Jyhyun.jpg)
+![Jose Elber - Jy Hyun](https://i.ibb.co/wLLy8T5/Jyhyun.jpg)
 
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -23,7 +23,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;JyHyun+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Jose;⚘🌹+Uwu🍒)](https://git.io/typing-svg)
-![JyHyun](https://i.ibb.co/g9Rqkk0/Jyhyun.jpg)
 
 ---
 
@@ -60,7 +59,6 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/JoseXrl15k/JyHyun/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/JoseXrl15k/JyHyun/blob/master/config.js)
 
-![Jose Elber - JyHyun](https://i.ibb.co/PDJfzdd/Jyhyun.jpg)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Jose+lanzó;Nueva+versión+JyHyun - 2.1.0;BY:+Jose+Xrl+y+Dioneibi." alt="Typing SVG"/></a>
 </div>
@@ -72,9 +70,6 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 
 ### CONTACTOS 💻
 <p>
-
-![Jose Elber - JyHyun](https://i.ibb.co/KFHLDpS/Jyhyun.jpg)
-
 
 <a href="https://api.whatsapp.com/send/?phone=+51950148255&text=Hola 👋 soporte de JyHyun &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
