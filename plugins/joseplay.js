@@ -7,7 +7,7 @@ try {
     let search = await yts(text);
     let isVideo = /play2$/.test(command);
     let urls = search.all[0].url;
-    let body = `*𖹭.╭╭ִ╼࣪━ִﮩ٨ـﮩ♡̫Jy Hyun ♡ִ̫ﮩ٨ـﮩ━ִ╾࣪╮╮.𖹭*\n> ♡ *Título:* ${search.all[0].title}\n> ♡ *Vistas:* ${search.all[0].views}\n> ♡ *Duración:* ${search.all[0].timestamp}\n> ♡ *Subido:* ${search.all[0].ago}\n> ♡ *Url:* ${urls}\n*⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ׄۛ۫۫۫۫۫۫ۜ*\n🕒 *Su ${isVideo ? 'Video' : 'Audio'} se está enviando, espere un momento...*`;
+    let body = `*𖹭.╭╭ִ╼━ִﮩ٨ـﮩ♡̫Jy Hyun ♡̫࣪╮╮.𖹭*\n> ♡ *Título:* ${search.all[0].title}\n> ♡ *Vistas:* ${search.all[0].views}\n> ♡ *Duración:* ${search.all[0].timestamp}\n> ♡ *Subido:* ${search.all[0].ago}\n> ♡ *Url:* ${urls}\n*⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ۛ۫۫۫۫۫۫ۜ⏝ּׅ︣︢ۛ۫۫۫۫۫۫ۜ⏝ּׅ︢︣ׄۛ۫۫۫۫۫۫ۜ*\n🕒 *Su ${isVideo ? 'Video' : 'Audio'} se está enviando, espere un momento...*`;
     
 let sentMessage = await conn.sendMessage(m.chat, { 
         image: { url: search.all[0].thumbnail }, 
@@ -24,9 +24,8 @@ let sentMessage = await conn.sendMessage(m.chat, {
         gifPlayback: false, 
         mimetype: isVideo ? "video/mp4" : "audio/mpeg" 
     }, { quoted: m });
-    await conn.sendMessage(m.chat, { delete: sentMessage.key });
+    await conn.sendMessage(m.chat, { null: sentMessage.key });
     } catch(error) {
-    conn.reply(m.chat, `Hubo un error en la descarga.\nDetalles: ${error}.`, m, rcanal)
     return
         }
 }
@@ -34,7 +33,7 @@ let sentMessage = await conn.sendMessage(m.chat, {
 handler.command = ['jplay', 'jplay2'];
 handler.help = ['jplay', 'jplay2'];
 handler.tags = ['descargas'];
-handler.group = true
+handler.group = false
 export default handler;
 
 async function dl_vid(url) {
