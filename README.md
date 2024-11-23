@@ -73,7 +73,7 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 ### CONTACTOS 💻
 <p>
 
-![JyHyun](https://i.ibb.co/PDJfzdd/Jyhyun.jpg)
+![Jose Elber - JyHyun](https://i.ibb.co/g9Rqkk0/Jyhyun.jpg)
 
 
 <a href="https://api.whatsapp.com/send/?phone=+51950148255&text=Hola 👋 soporte de JyHyun &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
