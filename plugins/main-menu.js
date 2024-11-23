@@ -12,6 +12,7 @@ let user = global.db.data.users[m.sender]
 let xx = '```'
 let jose = '51946509137'
 let jyhyun = '51922659543'
+let HJyhyunPeru = moment.tz("America/Lima").format("HH:mm:ss")
 let tags = {
   'main': 'ᴀᴄᴇʀᴄᴀ ᴅᴇ ',
   'bebot': 'sᴜʙ - ʙᴏᴛs',
@@ -39,7 +40,8 @@ const defaultMenu = {
   before: `
  _\`☆ ʜᴏʟᴀ @${m.sender.split`@`[0]}\`_ , _\`${ucpn}\`_
  
-  ⏤͟͟͞͞ᵡ    *U S U A R I O*   ᵡ͟͟͞͞⏤
+  ⏤͟͟͞͞🤍    *U S U A R I O*   🤍͟͟͞͞⏤
+  
    ⏣ •_\`ɴᴀᴍᴇ\`_ : %name
    ⏣ •_\`ᴄᴏɪɴs\`_ : %coin
    ⏣ •_\`ʀᴏʟᴇ\`_ : %role
@@ -48,10 +50,12 @@ const defaultMenu = {
    ⏣ •_\`ᴛᴏᴛᴀʟ xᴘ\`_ : %totalexp
    ⏣ •_\`¿ᴠɪᴘ\`_ : *${global.db.data.users[m.sender].premiumTime > 1 ? 'Si': 'No'}*
  
-  ⏤͟͟͞͞ᵡ    *I N F O   B O T*   ᵡ͟͟͞͞⏤
+  ⏤͟͟͞͞🍒    *I N F O   B O T*   🍒͟͟͞͞⏤
+  
    ⏣ •_\`ʙᴏᴛ ɴᴀᴍᴇ\`_ : ${botName}
    ⏣ •_\`ᴘʟᴀᴛғᴏʀᴍ\`_ : %platform
    ⏣ •_\`ᴛʏᴘᴇ\`_ : NodeJs
+   ⏣ •_\`Hora\`_ : ${HJyhyunPeru}
    ⏣ •_\`ᴄʀᴇᴀᴅᴏʀ\`_ : @${jose}
    ⏣ •_\`ʙᴀɪʟᴇʏs\`_ : Multi - Device
    ⏣ •_\`ᴘᴇғɪx\`_ : [ *%_p* ]
@@ -62,14 +66,16 @@ const defaultMenu = {
   
   %sbot
   
-     ⏤͟͟͞͞ᵡ    *I N F O   C M D*   ᵡ͟͟͞͞⏤
+     ⏤͟͟͞͞🌹   *I N F O   C M D*   🌹͟͟͞͞⏤
+     
   • \`%totalfeatures\` _Commands available for use_
   
   
-     ⏤͟͟͞͞ᵡ    *C O M A N D O S*   ᵡ͟͟͞͞⏤
+     ⏤͟͟͞͞🚩    *C O M A N D O S*   🚩͟͟͞͞⏤
+     
 `.trimStart(),
   header: `╭─(❀)❝┊ *\`%category\`* ┊❝(❀)`,
-  body: `┊ ⏣ • *%cmd* %isdiamond %isPremium\n`,
+  body: `┊ ❀ • *%cmd* %isdiamond %isPremium\n`,
   footer: `╰─❑\n`,
   after: `_\`🍟 Powered by Jose\`_`,
 }
@@ -210,7 +216,7 @@ const defaultMenu = {
     
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
-conn.sendMessage(m.chat, { video: { url: `https://files.catbox.moe/iofflh.mp4`, rcanal }, gifPlayback: true, caption: text.trim(),
+conn.sendMessage(m.chat, { video: { url: `https://files.catbox.moe/zvs46t.mp4`, rcanal }, gifPlayback: true, caption: text.trim(),
 contextInfo: {
 mentionedJid: conn.parseMention(text.trim()),
 isForwarded: true,
@@ -249,7 +255,7 @@ function pickRandom(list) {
 return list[Math.floor(Math.random() * list.length)]
 }
 function ucapan() {
-const time = moment.tz('America/Los_Angeles').format('HH')
+const time = moment.tz('America/Lima').format('HH')
 let res = ""
 if (time >= 4) {
 res = "Good morning. ⛅"
