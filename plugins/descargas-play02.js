@@ -7,7 +7,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 if (!args[0]) return await conn.reply(m.chat, '*𝙌𝙪𝙚 𝙚𝙨𝙩𝙖 𝙗𝙪𝙨𝙘𝙖𝙙𝙤🤔 𝙄𝙣𝙜𝙧𝙚𝙨𝙚 𝙚𝙡 𝙚𝙣𝙡𝙖𝙘𝙚 𝙙𝙚 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝙥𝙖𝙧𝙖 𝙙𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙧 𝙚𝙡 𝙖𝙪𝙙𝙞𝙤*', m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: textbot, body: 'La bot mas linda que tu mamá', previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
 
-if (command == 'jytmp3' || command == 'jfgmp3') {
+if (command == 'ytmp3' || command == 'fgmp3') {
 let youtubeLink = '';
 if (args[0].includes('you')) {
 youtubeLink = args[0];
@@ -27,7 +27,7 @@ return
 return
 }}}  
   
-conn.reply(m.chat, [`*🛍 𝙀𝙨𝙥𝙚𝙧𝙚 𝙪𝙣 𝙢𝙤𝙢𝙚𝙣𝙩𝙤... 𝙔𝙖 𝙚𝙨𝙩𝙤𝙮 𝙙𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙙𝙤 𝙩𝙪 𝙖𝙪𝙙𝙞𝙤🍹*`, `⌛ 𝙋𝙍𝙊𝘾𝙀𝙎𝘼𝙉𝘿𝙊...\n*𝘌𝘴𝘵𝘰𝘺 𝘪𝘯𝘵𝘦𝘯𝘵𝘢𝘯𝘥𝘰 𝘥𝘦𝘴𝘤𝘢𝘳𝘨𝘢 𝘴𝘶𝘴 𝘈𝘶𝘥𝘪𝘰 𝘦𝘴𝘱𝘦𝘳𝘦 🖼*`, `Calmao pa estoy bucando tu canción 🍟\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n> *Si el comando *play no funciona utiliza el comando *jytmp3*`].getRandom(), m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: wm, body: 'La bot mas linda que tu mamá', previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
+conn.reply(m.chat, [`*𝘌𝘴𝘵𝘰𝘺 𝘪𝘯𝘵𝘦𝘯𝘵𝘢𝘯𝘥𝘰 𝘥𝘦𝘴𝘤𝘢𝘳𝘨𝘢 𝘴𝘶𝘴 𝘈𝘶𝘥𝘪𝘰 𝘦𝘴𝘱𝘦𝘳𝘦 🌹*`, `Calmao pa estoy bucando tu canción 🍟\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube*\n\n> *Si el comando *play no funciona utiliza el comando *ytmp3*`].getRandom(), m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: wm, body: 'La bot mas linda que tu mamá', previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
 try {
 const apiUrl = `https://deliriussapi-oficial.vercel.app/download/ytmp4?url=${encodeURIComponent(args)}`;
 const apiResponse = await fetch(apiUrl);
@@ -62,7 +62,7 @@ conn.sendMessage(m.chat, { audio: { url: ress.url }, fileName: __res[0].title + 
 } catch {
 }}}}}
 
-if (command == 'jytmp4' || command == 'jfgmp4') {
+if (command == 'ytmp4' || command == 'fgmp4') {
 let youtubeLink = '';
 if (args[0].includes('you')) {
 youtubeLink = args[0];
@@ -81,7 +81,7 @@ return
 }} else {
 return
 }}}  
-conn.reply(m.chat, [`*🛍 𝙀𝙨𝙥𝙚𝙧𝙚 𝙪𝙣 𝙢𝙤𝙢𝙚𝙣𝙩𝙤... 𝙔𝙖 𝙚𝙨𝙩𝙤𝙮 𝙙𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙙𝙤 𝙩𝙪 𝙑𝙞𝙙𝙚𝙤 🍹*`, `🖼 𝙋𝙍𝙊𝘾𝙀𝙎𝘼𝙉𝘿𝙊...\n*𝘌𝘴𝘵𝘰𝘺 𝘪𝘯𝘵𝘦𝘯𝘵𝘢𝘯𝘥𝘰 𝘥𝘦𝘴𝘤𝘢𝘳𝘨𝘢 𝘴𝘶𝘴 𝘝𝘪𝘥𝘦𝘰 𝘦𝘴𝘱𝘦𝘳𝘦 🪁*`, `Calma 🎀\n\n*Estoy descargando tu video 🔄*\n\n> *Aguarde un momento, por favor*`].getRandom(), m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: wm, body: 'La bot mas linda que tu mamá', previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
+conn.reply(m.chat, [`*𝘌𝘴𝘵𝘰𝘺 𝘪𝘯𝘵𝘦𝘯𝘵𝘢𝘯𝘥𝘰 𝘥𝘦𝘴𝘤𝘢𝘳𝘨𝘢 𝘴𝘶𝘴 𝘝𝘪𝘥𝘦𝘰 𝘦𝘴𝘱𝘦𝘳𝘦 🌹*`, `Calma 🌸\n\n*Estoy descargando tu video 🔄*\n\n> *Aguarde un momento, por favor*`].getRandom(), m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: wm, body: 'La bot mas linda que tu mamá', previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
 try {
 let qu = args[1] || '360'
 let q = qu + 'p'
@@ -109,9 +109,9 @@ await conn.sendMessage(m.chat, { video: { url: n2 }, fileName: `${n}.mp4`, mimet
 } catch (E3) {
 //console.log('Error 3 ' + E3)   
 }}}}}
-handler.help = ['jytmp4', 'jytmp3'];
+handler.help = ['ytmp4', 'ytmp3'];
 handler.tags = ['downloader'];
-handler.command = /^jytmp3|jytmp4|jfgmp4|jaudio|jfgmp3|jdlmp3?$/i
+handler.command = /^ytmp3|ytmp4|jfgmp4|audio|fgmp3|dlmp3?$/i
 export default handler
 
 function bytesToSize(bytes) {
