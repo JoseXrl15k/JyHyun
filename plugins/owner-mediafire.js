@@ -34,7 +34,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
     }
   }
 };
-handler.command = /^(mediafire2)$/i;
+handler.command = /^(mediafire)$/i;
 export default handler;
 
 async function mediafireDl(url) {
