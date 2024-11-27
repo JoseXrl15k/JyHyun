@@ -43,7 +43,7 @@ Bienvenido a JyHyun soy una bot de WhatsApp diceñada para : Entretener , dar in
 
 UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com/Ivanmods16]) QUÉ ME AYUDÓ EN ESTE PROYECTO.
 
-*_1.-_* <a href="https://chat.whatsapp.com/EyIKeHl16JNB4J6O4KMjpD" target="blank"><img src="https://img.shields.io/badge/Asᴜɴᴀ_Yᴜᴜᴋɪ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+*_1.-_* <a href="https://chat.whatsapp.com/EyIKeHl16JNB4J6O4KMjpD" target="blank"><img src="https://img.shields.io/badge/JyHyun-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 👑 PARA CUALQUIER DUDA QUE PUEDA SURGIR CON ESTAS EDICIONES DEL BOT (INCLUYENDO FALTAS DE ORTOGRAFIA :v), CONTACTANOS 🚩`
 <a href="http://wa.me/51950148255" target="blank"><img src="https://img.shields.io/badge/JOSE_XRL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
