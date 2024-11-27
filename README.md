@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Jose Elber - Jy Hyun](https://i.ibb.co/wLLy8T5/Jyhyun.jpg)
+![Jose Elber - Jy Hyun](https://i.ibb.co/rZsq47c/Jyhyun.jpg)
 
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
