@@ -1,62 +1,19 @@
-import { promises } from 'fs'
-import { join } from 'path'
-import axios from 'axios'
+import fetch from 'node-fetch'
+import moment from 'moment-timezone'
 
-let handler = async function (m, { conn, __dirname }) {
-  const githubRepoURL = 'https://github.com/JoseXrl15k/JyHyun'
+var handler = async (m, { conn, usedPrefix }) => {
 
-  try {
-    const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/)
-
-    const response = await axios.get(`https://api.github.com/repos/${username}/${repoName}`)
-
-    if (response.status === 200) {
-      const repoData = response.data
-
-      // Format the repository information with emojis
-      const formattedInfo = `
-📂 Repository Name: ${repoData.name}
-📝 Description: ${repoData.description}
-👤 Owner: ${repoData.owner.login}
-⭐ Stars: ${repoData.stargazers_count}
-🍴 Forks: ${repoData.forks_count}
-🌐 URL: ${repoData.html_url}
-      `.trim()
-
-      // Send the formatted information as a message
-      await conn.relayMessage(
-        m.chat,
-        {
-          requestPaymentMessage: {
-            currencyCodeIso4217: 'INR',
-            amount1000: 690000000000,
-            requestFrom: m.sender,
-            noteMessage: {
-              extendedTextMessage: {
-                text: formattedInfo,
-                contextInfo: {
-                  externalAdReply: {
-                    showAdAttribution: true,
-                  },
-                },
-              },
-            },
-          },
-        },
-        {}
-      )
-    } else {
-      // Handle the case where the API request fails
-      await conn.reply(m.chat, 'Unable to fetch repository information.', m)
-    }
-  } catch (error) {
-    console.error(error)
-    await conn.reply(m.chat, 'An error occurred while fetching repository information.', m, rcanal)
-  }
+let res = await fetch('https://api.github.com/repos/JoseXrl15k/JyHyun')
+let json = await res.json()
+ 
+let git = `*乂  B O T  -  S C R I P T*\n\n◦ *Nombre* : ${json.name}\n◦ *Visitantes* : ${json.watchers_count}\n◦ *Peso* : ${(json.size / 1024).toFixed(2)} MB\n◦ *Actualizado* : ${moment(json.updated_at).format('DD/MM/YY - HH:mm:ss')}\n◦ *Url* : ${json.html_url}\n\n	   ${json.forks_count} Forks · ${json.stargazers_count} Stars · ${json.open_issues_count}`
+await conn.reply(m.chat, git, m, { externalAdReply: { mediaType: 1, renderLargerThumbnail: true, thumbnail: imagen0, thumbnailUrl: imagen0, title: '\t\t\t\t\t\t᭡͡ᩬ😊✩̣̣̣̣̣ͯJy Hyun᭡͡ᩬ😊✩̣̣̣̣̣ͯ', }})
+ 
 }
+handler.tags =['info'] 
+handler.help = ['script'] 
+handler.command = ['sc', 'script', 'codigo', 'git', 'github']
 
-handler.help = ['script']
-handler.tags = ['main']
-handler.command = ['sc', 'repo', 'script']
+handler.register = true
 
 export default handler
