@@ -4,7 +4,7 @@ import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
 import search from 'yt-search'
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-if (!text) return await conn.reply(m.chat, `¿Que esta buscando? 🍟 ingresa el nombre para descargar sus música de Spotify, Ejemplo:* ${usedPrefix + command} phonk`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: mg, body: wm, previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
+if (!text) return await conn.reply(m.chat, `¿Que esta buscando? 🍟 ingresa el nombre para descargar sus música de Spotify, Ejemplo:* ${usedPrefix + command} phonk`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: dev, body: wm, previewType: 0, thumbnail: imagen0, sourceUrl: canal}}})    
 m.react(`🍟`) 
 try {
 let songInfo = await spotifyxv(text);
@@ -138,6 +138,3 @@ return response.data;
 } catch (error) {
 return text;
 }}
-
-
-
