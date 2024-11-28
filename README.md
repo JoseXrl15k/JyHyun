@@ -1,4 +1,4 @@
-<h1 align='center'>Jy MultiDevice</h1>
+<h1 align='center'>𝗝у н𝘆υи мυ𝗹ƚι ∂є𝘃ιƈҽ</h1>
 
 <div align="center">
   
@@ -18,8 +18,8 @@
 <h1 align="center"></h1>
   </div>
   
-<h1 align="center">JyHyun Bot 🌹</h1>
- <p align="center">🌹 WhatsApp Bot Node-Js.</p>
+<h1 align="center">𝗝ყ ԋყ𝘂ɳ Ⴆ𝗼ƚ 🌹</h1>
+ <p align="center">🌹 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗯𝗼𝘁 𝗡𝗼𝗱𝗲-𝗷𝘀.</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;JyHyun+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Jose;⚘🌹+Uwu🍒)](https://git.io/typing-svg)
@@ -29,7 +29,7 @@
 ### **`❕️ Información importante`**
 
 <details>
- <summary><b> 🌹 Info Bot</b></summary>
+ <summary><b> 🌹 𝗜nfo B𝗼t</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 
@@ -63,12 +63,7 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Jose+lanzó;Nueva+versión+JyHyun - 2.1.0;BY:+Jose+Xrl+y+Dioneibi." alt="Typing SVG"/></a>
 </div>
 
-#### Creador: Jose Elber
-#### Realizado con: Dioneibi & Ivan
-
-#### ᴇsᴘᴇʀᴏ sᴜ ᴀᴘᴏʏᴏ ᴅᴇ ᴄᴀᴅᴀ ᴜɴᴏ ᴅᴇ ᴜsᴛᴇᴅᴇs
-
-### CONTACTOS 💻
+### ƈσɳ𝘁𝗮𝗰𝘁𝗼𝘀 - 𝗝ყ ԋყυ𝗻 𝗕σƚ
 <p>
 
 <a href="https://api.whatsapp.com/send/?phone=+51950148255&text=Hola 👋 soporte de JyHyun &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
