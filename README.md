@@ -39,9 +39,8 @@
 
 # Jy Hyun La Bot Más Linda 
 
-Bienvenido a JyHyun soy una bot de WhatsApp diceñada para : Entretener , dar información , Descargar musicas , crear imagenes , ect
+𝗝𝘺 𝗵𝘺𝘶𝘯 𝘣𝗼𝘵 𝗲𝘴 𝘶𝘯𝗮 𝘣𝗼𝘵 𝘥𝘪𝘤𝗲𝘯̃𝘢𝘥𝗮 𝘱𝘢𝗿𝘢 𝘦𝘯𝘁𝘳𝘦𝘯𝘦𝗿𝘵𝘦 𝘆 𝗵𝗮𝗰𝗲𝗿𝘁𝗲 𝘭𝗮 𝘷𝗶𝘥𝘢 𝗺𝘢́𝘴 𝘧𝗮𝘤𝘪𝘭 , 𝘵𝗲 𝘱𝘶𝗲𝘥𝘦 𝘢𝘺𝘶𝗱𝘢𝘳 𝘦𝗻 𝘤𝘶𝘢𝘭𝘲𝘂𝘪𝘦𝘳 𝘱𝘳𝗲𝘨𝘶𝘯𝘵𝗮 𝘤𝗼𝘮𝘰 𝘵𝘢𝗺𝘣𝘪𝘦𝘯 𝘀𝘦𝘳 𝘶𝘯𝗮 𝘣𝘰𝘁 𝗺𝘶𝘺 𝘥𝘪𝘷𝗲𝘳𝘵𝘪𝘥𝘢.
 
-UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com/Ivanmods16]) QUÉ ME AYUDÓ EN ESTE PROYECTO.
 
 *_1.-_* <a href="https://chat.whatsapp.com/EyIKeHl16JNB4J6O4KMjpD" target="blank"><img src="https://img.shields.io/badge/JyHyun-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -49,9 +48,6 @@ UN AGRADECIMIENTO MUY ESPECIAL A ESTE CABALLERO [@Ivanmods16](https://github.com
 <a href="http://wa.me/51950148255" target="blank"><img src="https://img.shields.io/badge/JOSE_XRL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="http://wa.me/18294868853" target="blank"><img src="https://img.shields.io/badge/𝑫𝒊𝒐𝒏𝒆𝒊𝒃𝒊-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-### `—◉ ⭐APOYA A IVAN XD⭐`
-- DEJA TU ESTRELLITA ME APOYARIAS MUCHO JJ 🌹 [Aqui](https://github.com/Ivanmods16/Goku-Black-Bot-MD)
 
 - FORMA PARTE DE LA FAMILIA GOKU BLACK LITE  😉💥 [Aqui](https://chat.whatsapp.com/ETIiqEsDfpiFepKjQEDi3O)
 
