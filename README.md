@@ -39,7 +39,7 @@
 
 # Jy Hyun La Bot Más Linda 
 
-𝗝𝘺 𝗵𝘺𝘶𝘯 𝘣𝗼𝘵 𝗲𝘴 𝘶𝘯𝗮 𝘣𝗼𝘵 𝘥𝘪𝘤𝗲𝘯̃𝘢𝘥𝗮 𝘱𝘢𝗿𝘢 𝘦𝘯𝘁𝘳𝘦𝘯𝘦𝗿𝘵𝘦 𝘆 𝗵𝗮𝗰𝗲𝗿𝘁𝗲 𝘭𝗮 𝘷𝗶𝘥𝘢 𝗺𝘢́𝘴 𝘧𝗮𝘤𝘪𝘭 , 𝘵𝗲 𝘱𝘶𝗲𝘥𝘦 𝘢𝘺𝘶𝗱𝘢𝘳 𝘦𝗻 𝘤𝘶𝘢𝘭𝘲𝘂𝘪𝘦𝘳 𝘱𝘳𝗲𝘨𝘶𝘯𝘵𝗮 𝘤𝗼𝘮𝘰 𝘵𝘢𝗺𝘣𝘪𝘦𝘯 𝘀𝘦𝘳 𝘶𝘯𝗮 𝘣𝘰𝘁 𝗺𝘶𝘺 𝘥𝘪𝘷𝗲𝘳𝘵𝘪𝘥𝘢.
+𝗝𝘺 𝗵𝘺𝘶𝘯 𝘣𝗼𝘵 𝗲𝘴 𝘶𝘯𝗮 𝘣𝗼𝘵 𝘥𝘪𝘤𝗲ñ𝘢𝘥𝗮 𝘱𝘢𝗿𝘢 𝘦𝘯𝘁𝘳𝘦𝘯𝘦𝗿𝘵𝘦 𝘆 𝗵𝗮𝗰𝗲𝗿𝘁𝗲 𝘭𝗮 𝘷𝗶𝘥𝘢 𝗺á𝘴 𝘧𝗮𝘤𝘪𝘭 , 𝘵𝗲 𝘱𝘶𝗲𝘥𝘦 𝘢𝘺𝘶𝗱𝘢𝘳 𝘦𝗻 𝘤𝘶𝘢𝘭𝘲𝘂𝘪𝘦𝘳 𝘱𝘳𝗲𝘨𝘶𝘯𝘵𝗮 𝘤𝗼𝘮𝘰 𝘵𝘢𝗺𝘣𝘪𝘦𝘯 𝘀𝘦𝘳 𝘶𝘯𝗮 𝘣𝘰𝘁 𝗺𝘶𝘺 𝘥𝘪𝘷𝗲𝘳𝘵𝘪𝘥𝘢.
 
 
 *_1.-_* <a href="https://chat.whatsapp.com/EyIKeHl16JNB4J6O4KMjpD" target="blank"><img src="https://img.shields.io/badge/JyHyun-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -66,8 +66,6 @@
 
 ---
 
----
-
 ## **`🔗 Enlaces útiles`**
 
 | APP | TIPO | ENLACE |
@@ -81,7 +79,7 @@
 ---
 
 
-#### **🐞 Instalación manual por termux**
+#### **🍂 Instalación manual por termux**
 
 ```bash
 termux-setup-storage
